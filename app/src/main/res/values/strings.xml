@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrySQLite</string>
+    <string name="firstname">First Name of customer</string>
+    <string name="lastname">Last Name of customer</string>
+    <string name="address">Address of customer</string>
+    <string name="telephone">Telephone Number of customer</string>
+    <string name="addcustomer">Add customer</string>
+    <string name="viewcustomers">View all customers</string>
+</resources>
